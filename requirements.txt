@@ -8,3 +8,4 @@ jupyterlab
 lxml
 selenium
 webdriver-manager
+plotly
