@@ -9,3 +9,4 @@ lxml
 selenium
 webdriver-manager
 plotly
+bs4
